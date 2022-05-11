@@ -1,0 +1,11 @@
+.container{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100vh;
+ flex-direction: column;
+
+ background-image: url('https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_960_720.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
